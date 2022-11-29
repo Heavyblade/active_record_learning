@@ -71,3 +71,10 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# Gems for validations
+
+gem "hanami-validations"
+gem "hanami-controller"
+
+gem "dry-validation"
